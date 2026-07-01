@@ -31,8 +31,7 @@ Hi there 👋 I'm Soham Roy<br><br>🚀 Frontend Developer | React.js | Next.js 
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 
 
