@@ -20,15 +20,15 @@ Hi there 👋 I'm Soham Roy<br><br>🚀 Frontend Developer | React.js | Next.js 
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamroy06-eveningstar&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohamroy06-eveningstar&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sohamroy06-eveningstar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
